@@ -1,4 +1,4 @@
-# Comandos DQL DML PostgreSQL com Python
+# Comandos DQL e DML PostgreSQL com Python
 Conecta a um servidor e executa comandos SQL diretamente em *Python*
 
 Os módulos foram criadas em *Python* e utilizam a biblioteca ```psycopg2``` como base para criar um objeto que possa executar esses comandos de maneira mais simples e intuitiva.
